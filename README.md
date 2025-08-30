@@ -1,6 +1,3 @@
-Certainly! Here's a concise and informative README for your GitHub repository:
-
----
 
 # Ethical Hacking Roadmap Repository
 
