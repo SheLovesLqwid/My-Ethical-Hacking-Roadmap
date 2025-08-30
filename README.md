@@ -27,7 +27,35 @@ This repository is based on the [Ethical Hacking Roadmap](https://roadmap.sh/r/e
 
 ## 📈 Visual Roadmap
 
-Coming SOON!
+**Screenshots of the Ethical Hacking Roadmap**
+
+### 1️⃣ First Screenshot
+![Screenshot 1](assets/Screenshot%202025-08-30%20145205.png)
+
+### 2️⃣ Second Screenshot
+![Screenshot 2](assets/Screenshot%202025-08-30%20145213.png)
+
+### 3️⃣ Third Screenshot
+![Screenshot 3](assets/Screenshot%202025-08-30%20145221.png)
+
+### 4️⃣ Fourth Screenshot
+![Screenshot 4](assets/Screenshot%202025-08-30%20145227.png)
+
+### 5️⃣ Fifth Screenshot
+![Screenshot 5](assets/Screenshot%202025-08-30%20145232.png)
+
+### 6️⃣ Sixth Screenshot
+![Screenshot 6](assets/Screenshot%202025-08-30%20145238.png)
+
+### 7️⃣ Seventh Screenshot
+![Screenshot 7](assets/Screenshot%202025-08-30%20145251.png)
+
+### 8️⃣ Eighth Screenshot
+![Screenshot 8](assets/Screenshot%202025-08-30%20145257.png)
+
+### 9️⃣ Ninth Screenshot
+![Screenshot 9](assets/Screenshot%202025-08-30%20145302.png)
+
 
 *Note: The above image is a representation of the ethical hacking journey.*
 
